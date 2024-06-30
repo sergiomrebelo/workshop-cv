@@ -33,11 +33,11 @@ Make sure these prerequisites are installed and properly configured on your syst
 
 This repository is organised into two main folders: **Boilerplates** and **Demos**.
 
-### Boilerplates
-The **Boilerplates** folder contains reusable code templates for various computer vision tasks using different libraries.
+#### boilerplates
+The **boilerplates** folder contains reusable code templates for various computer vision tasks using different libraries.
 
-### Demos
-The **Demos** folder contains examples of code templates exploring different computer vision tasks.
+#### demos
+The **demos** folder contains examples of code templates exploring different computer vision tasks.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
