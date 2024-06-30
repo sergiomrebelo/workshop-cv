@@ -7,7 +7,7 @@ This workshop is developed as part of the _Amazing Robots_ initiative, part of t
 **Workshop date:** 1 July 2024, 17:00-19:00, Amazing Lab  
 **Lecturers:** Sérgio M. Rebelo and Jéssica Parente
 
-![workshop poster](http://url/to/img.png)
+![workshop poster](https://github.com/sergiomrebelo/workshop-cv/blob/main/poster.jpg)
 
 ## Workshop Contents
 1. Live Video and Motion Sensing Devices
