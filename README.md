@@ -22,7 +22,7 @@ This workshop is developed as part of the _Amazing Robots_ initiative, part of t
 Before you begin, ensure you have met the following requirements:
 
 - **Processing**: You need to have [Processing](https://processing.org/download/) installed on your computer. Processing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts.
-- **Web Browser**: A modern web browser (e.g., Chrome, Firefox, Safari) should be installed for viewing web-based demos and applications.
+- **Web Browser**: A modern web browser (_e.g._ Chrome, Firefox, Safari) should be installed for viewing web-based demos and applications.
 - **Webcam**: A functional webcam is required for running real-time applications and demos that involve live video input.
 
 Make sure these prerequisites are installed and properly configured on your system to ensure a smooth experience with the workshop materials.
