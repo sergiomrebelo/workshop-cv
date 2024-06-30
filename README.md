@@ -7,7 +7,7 @@ This workshop is developed as part of the _Amazing Robots_ initiative, part of t
 **Workshop date:** 1 July 2024, 17:00-19:00, Amazing Lab  
 **Lecturers:** Sérgio M. Rebelo and Jéssica Parente
 
-<img src="https://github.com/sergiomrebelo/workshop-cv/blob/main/poster.jpg" alt="workshop poster" width="400"/>
+<img src="res/poster.jpg" alt="workshop poster" width="400"/>
 
 ## Workshop Contents
 1. Live Video and Motion Sensing Devices
@@ -17,6 +17,8 @@ This workshop is developed as part of the _Amazing Robots_ initiative, part of t
 5. Face Detection and Contours
 6. Object Detection
 7. Neural Style Transfer
+
+[Presentation Slides](res/presentation.pdf)
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
