@@ -27,10 +27,10 @@ void setup() {
     println("Available cameras:");
     printArray(cameras);
 
-    cam = new Capture(this, 1280, 720, cameras[0], 30);
+    cam = new Capture(this, 1280, 720, cameras[1], 30);
     cam.start();
   }
-  frameRate(30);
+  frameRate(60);
 }
 
 void draw() {
